@@ -8,7 +8,7 @@ Each shape should have methods for calculating area and perimeter specific to it
 
 using namespace std;
 
-
+//Changes made by Nehal
 class Shape{
 	float area, perimeter;
 	public: 
